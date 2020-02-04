@@ -12,6 +12,8 @@ format . So a 1024 bits number will have 1024/3 with some factor difference whic
 
 **/
 
+/** This is a comment added through command terminal and will be later added through git **/
+
 #include<bits/stdc++.h>
 using namespace std ;
 
